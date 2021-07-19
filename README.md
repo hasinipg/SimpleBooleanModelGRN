@@ -6,13 +6,14 @@ This is model is for efficient Boolean modelling approach for Genetic Network in
 
 
 Before execute the progrmme 'Simple Boolean Model.ipynb', please make sure below given packages are imported
-numpy
-xlrd
-math
-networkx
-matplotlib.pyplot
-pyitlib
-statistics
+
+numpy,
+xlrd,
+math,
+networkx,
+matplotlib.pyplot,
+pyitlib,
+statistics,
 pandas
 
 
