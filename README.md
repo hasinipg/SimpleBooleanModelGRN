@@ -20,6 +20,6 @@ pandas
 The given Model includes 3 functions,
 
 *MutualInformationBased_InteractionSelector - MRMR method implementation
-*Search_Update_Rule - Selection of regulatory rule & Update Boolean varible state
+*Search_Update_Rule - SelectRegulatoryRule and Update_state functions include here
 *SWAP_Function - SWAP operation
 
