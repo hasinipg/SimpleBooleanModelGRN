@@ -5,7 +5,7 @@ This model is for efficient Boolean modelling approach for Genetic Network infer
 * I N S T R U C T I O N S
 
 
-Before execute the progrmme 'Simple Boolean Model.ipynb', please make sure below given packages are imported
+Before execute the progrmme 'Simple Boolean Model.ipynb', please make sure below given python packages are imported
 
 numpy,
 xlrd,
