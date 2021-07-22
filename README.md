@@ -1,5 +1,5 @@
 # SimpleBooleanModelGRN
-This is model is for efficient Boolean modelling approach for Genetic Network inference
+This model is for efficient Boolean modelling approach for Genetic Network inference
 
 
 * I N S T R U C T I O N S
